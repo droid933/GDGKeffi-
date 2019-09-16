@@ -1,2 +1,2 @@
 # GDGKeffi-
-Designing and Official website for GDG  Keffi
+Designing an Official website for GDG  Keffi
